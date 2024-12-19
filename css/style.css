@@ -9,7 +9,7 @@ body{
 /*FONT LOADING*/
 /*Update with selected Google Font*/
 body, .leaflet-popup-content{
-    font-family: "Parkinsans", sans-serif !important;
+    font-family: "Berkshire Swash", serif !important;
 }
 
 /*BUTTON STYLING*/
